@@ -1,4 +1,4 @@
-# IST146_Module01_HOA
+# IST146_Module02_HOA
 
 In this module's HOA, you will write another O(n) search algorithm, *randomized search*. The parameters to the algorithm are the
 same as for linear search: the array to search, and the key value to look for. Likewise, the return values are the same: an index
